@@ -11,7 +11,7 @@ _English_
 
 This code was extracted from my archives during my high school education, and
 dated 2001. Therefore, it does not reflect my current experience with programming
-language, clean code or any good practices. I just decided to add here for
+language, clean code or other best practices. I just decided to add here for
 historical reference of how I programmed over 20 years ago.
 
 And, believe or not, the code works!
